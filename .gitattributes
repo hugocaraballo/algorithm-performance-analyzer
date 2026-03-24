@@ -1,0 +1,5 @@
+# Force text files to use Linux (LF) line endings
+* text=auto eol=lf
+
+# Exclude generated files from GitHub language statistics
+*.png linguist-generated=true
