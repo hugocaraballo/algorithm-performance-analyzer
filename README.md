@@ -27,6 +27,7 @@ Make sure you have Python 3 installed. You will also need the `matplotlib` libra
 ```
 pip install -r requirements.txt
 ```
+*(Note: Depending on your system, you might need to use* ```pip3```*)*
 
 ## Running the Benchmark
 Simply run the main script from your terminal:
@@ -34,7 +35,7 @@ Simply run the main script from your terminal:
 ```
 python src/main.py
 ```
-*(Note: Depending on your system, you might need to use* ```python3 src/main.py```*)*
+*(Note: Depending on your system, you might need to use* ```python3```*)*
 
 The program will prompt you to enter the array sizes you want to test. For example:
 ```
