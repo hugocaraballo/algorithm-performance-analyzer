@@ -39,9 +39,12 @@ python src/main.py
 
 The program will prompt you to enter the array sizes you want to test. For example:
 ```
-Introduce the size of the arrays (separated with spaces): 100 200 300
+Introduce the size of the arrays (separated with spaces): 100 1000 5000
 ```
-
+## Results
+| Terminal | Image | 
+| :---: | :---: |
+| <img width="324" height="253" alt="Captura de pantalla 2026-03-27 a las 9 18 25" src="https://github.com/user-attachments/assets/79a9c497-a411-4b35-9d1e-b0342c125e9d" /> | <img width="1500" height="900" alt="benchmark" src="https://github.com/user-attachments/assets/c997a772-40f6-4abe-b8a4-f62a9dbc3fe9" /> |
 ## Stack & Tools
 * Language: Python 3
 
